@@ -19,7 +19,7 @@
    os maiores. Um novo pivô é escolhido e esse movimento é repetido até que sobrem duplas de números que serão invertidas se não estiverem na ordem desejada ou numeros
    sozinhos.
    
-  [C LANG](https://github.com/LucasrodriguesP/Trabalho-AV2-Estrutura-de-Dados-em-C/blob/main/c%C3%B3digos/quick%20C) - [C++](https://github.com/LucasrodriguesP/Trabalho-AV2-Estrutura-de-Dados-em-C/blob/main/c%C3%B3digos/quick%20C%2B%2B)
+  [C LANG](https://github.com/LucasrodriguesP/Trabalho-AV2-Estrutura-de-Dados-em-C/blob/main/c%C3%B3digos/quick%20C) - [C++](https://github.com/LucasrodriguesP/Trabalho-AV2-Estrutura-de-Dados-em-C/blob/main/c%C3%B3digos/quick%20c%2B%2B)
    
    ![image](https://user-images.githubusercontent.com/101484912/200914917-c3686411-9fb1-41f0-8957-047eda0a18dc.png)
 
