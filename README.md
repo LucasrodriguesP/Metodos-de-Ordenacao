@@ -4,10 +4,14 @@
 
   **Bubble Sort**: Consiste em percorrer um vetor diversas vezes comparando uma posição do vetor com a próxima, invertendo a posição caso x+1 seja maior.
   
+  [C LANG](https://github.com/LucasrodriguesP/Trabalho-AV2-Estrutura-de-Dados-em-C/blob/main/c%C3%B3digos/bubble%20C) - [C++](https://github.com/LucasrodriguesP/Trabalho-AV2-Estrutura-de-Dados-em-C/blob/main/c%C3%B3digos/bubble%20C%2B%2B)
+  
   ![image](https://user-images.githubusercontent.com/101484912/200907973-f5b14011-5d8a-4e99-807f-f585805b99ab.png)
   
   **Merge Sort**: Consite em dividir um vetor e dividir os vetores subsequentes desse recursivamente até que todos os subvetores tenham um índice só. A partir desse
     momento os subvetores vão se fundindo de forma ordenada até formarem um unico vetor.
+    
+  [C LANG](https://github.com/LucasrodriguesP/Trabalho-AV2-Estrutura-de-Dados-em-C/blob/main/c%C3%B3digos/merge%20C) - [C++](https://github.com/LucasrodriguesP/Trabalho-AV2-Estrutura-de-Dados-em-C/blob/main/c%C3%B3digos/merge%20C%2B%2B)
     
    ![image](https://user-images.githubusercontent.com/101484912/200910657-59a9f5ec-0ddd-4941-9744-22390c4fb736.png)
    
@@ -15,10 +19,14 @@
    os maiores. Um novo pivô é escolhido e esse movimento é repetido até que sobrem duplas de números que serão invertidas se não estiverem na ordem desejada ou numeros
    sozinhos.
    
+  [C LANG](https://github.com/LucasrodriguesP/Trabalho-AV2-Estrutura-de-Dados-em-C/blob/main/c%C3%B3digos/quick%20C) - [C++](https://github.com/LucasrodriguesP/Trabalho-AV2-Estrutura-de-Dados-em-C/blob/main/c%C3%B3digos/quick%20C%2B%2B)
+   
    ![image](https://user-images.githubusercontent.com/101484912/200914917-c3686411-9fb1-41f0-8957-047eda0a18dc.png)
 
    **Heap Sort**: Funciona por meio de uma estrutura chamada heap que ordena os elementos no mesmo passo que os insere. Geralmente essa estrutura é visualizada como
    uma arvore binária.
+   
+   [C LANG](https://github.com/LucasrodriguesP/Trabalho-AV2-Estrutura-de-Dados-em-C/blob/main/c%C3%B3digos/heap%20C) - [C++](https://github.com/LucasrodriguesP/Trabalho-AV2-Estrutura-de-Dados-em-C/blob/main/c%C3%B3digos/heap%20C%2B%2B)   
 
  ![Heapsort-example](https://user-images.githubusercontent.com/101484912/201103905-bd889357-8528-46fa-b18b-4430879b185b.gif)
 
@@ -52,3 +60,4 @@
      HeapSort não é recomendado para pequenas ordenações devido ao tempo gasto para se criar a estrutura heap
      
    
+    [Fontes e refências usadas](https://github.com/LucasrodriguesP/Trabalho-AV2-Estrutura-de-Dados-em-C/blob/main/Refer%C3%AAncias%20e%20Fontes)
