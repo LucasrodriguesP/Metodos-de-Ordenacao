@@ -37,10 +37,8 @@ static void merge(int A[], int inicio, int meio, int fim) {
     }
 }
 
-/*
- * Algoritmo de ordenação por intercação/fusão 
- * Adaptado o livro "Algoritmos: teoria e prática" (Cormen et al)
-/
+  //Algoritmo de ordenação por intercação/fusão 
+ //Adaptado o livro "Algoritmos: teoria e prática" (Cormen et al)
 
 void mergeSort(int A[], int inicio, int fim) {
     if (inicio < fim) {
