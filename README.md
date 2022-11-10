@@ -60,4 +60,4 @@
      HeapSort não é recomendado para pequenas ordenações devido ao tempo gasto para se criar a estrutura heap
      
    
-    [Fontes e refências usadas](https://github.com/LucasrodriguesP/Trabalho-AV2-Estrutura-de-Dados-em-C/blob/main/Refer%C3%AAncias%20e%20Fontes)
+   [Fontes e refências usadas](https://github.com/LucasrodriguesP/Trabalho-AV2-Estrutura-de-Dados-em-C/blob/main/Refer%C3%AAncias%20e%20Fontes)
