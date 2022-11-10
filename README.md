@@ -17,10 +17,12 @@
    
    ![image](https://user-images.githubusercontent.com/101484912/200914917-c3686411-9fb1-41f0-8957-047eda0a18dc.png)
 
-   **Heap Sort**:
-   
-   
+   **Heap Sort**: Funciona por meio de uma estrutura chamada heap que ordena os elementos no mesmo passo que os insere. Geralmente essa estrutura é visualizada como
+   uma arvore binária.
 
+ ![Heapsort-example](https://user-images.githubusercontent.com/101484912/201103905-bd889357-8528-46fa-b18b-4430879b185b.gif)
+
+   
 ### Comparção entre 4 métodos de ordenação
   
   **Estabilidade**: Se da por estável um algoritmo que preserva a ordem (alfabética/lexicográfica) dos elementos das chaves.
@@ -43,6 +45,10 @@
 ### Considerações finais
  
      Método Bolha é o menos recomendado para grandes quantidades de dados.
+     MergeSort pode ser escrito para rodar em multithread.
      QuickSort é o mais recomendado entre os algoritmos que utilizam comparação
      QuickSort não necessita de alocação extra de memória por ser in-place, ou seja, sua ordenação ocorre no próprio vetor
+     QuickSort requer menos comparações para N itens em relação aos outros métodos, necessitando em média de (n * log(n)) comparações
+     HeapSort não é recomendado para pequenas ordenações devido ao tempo gasto para se criar a estrutura heap
+     
    
