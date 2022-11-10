@@ -17,7 +17,9 @@
    
    ![image](https://user-images.githubusercontent.com/101484912/200914917-c3686411-9fb1-41f0-8957-047eda0a18dc.png)
 
-
+   **Heap Sort**:
+   
+   
 
 ### Comparção entre 4 métodos de ordenação
   
@@ -32,8 +34,11 @@
    *exemplo - > T(n)=2T(n/2)+Θ(n) -> após resolver a equação do merge sort - > T(n)=O(n * log n)*
   
    ![image](https://user-images.githubusercontent.com/101484912/200876614-0e9c79f1-0ef0-4c72-8305-34bad13a0258.png)
+   
+   *apesar de alguns terem a mesma complexidade computacional, isto não quer dizer que todos executem ao mesmo tempo para a mesma instância*
        
    ![image](https://user-images.githubusercontent.com/101484912/200877094-1eba05d8-28e4-4234-b21a-8208ef82c604.png)
+   
    
 ### Considerações finais
  
